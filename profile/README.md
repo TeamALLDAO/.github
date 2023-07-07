@@ -1,5 +1,28 @@
 ## Hi there 👋
 
+# Organization Overview
+
+AllDao is a web3 startup focused on using web3 technology to empower communities and individuals. Alldao helps with community management and finance. 
+
+## Our mission
+
+To help communities easily become sustainable Daos.
+
+## Our vision
+
+To create an ecosystem of sustainable Daos.
+
+# Project Overview
+
+This organization contains two repositories ;
+
+- .github which contains just this readme file
+- alldao which contains the first draft of the project built with vanillajs
+
+ # Support and Contact Information
+
+ please send an email to odohvictor47@gmail.com for any information
+
 <!--
 
 **Here are some ideas to get you started:**
