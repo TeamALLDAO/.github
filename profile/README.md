@@ -21,7 +21,7 @@ This organization contains two repositories ;
 
  # Support and Contact Information
 
- please send an email to odohvictor47@gmail.com for any information
+ please send an email to alldao.team@gmail.com for any information
 
 <!--
 
